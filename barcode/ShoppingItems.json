@@ -58,5 +58,11 @@
         "item": "ASUS Battery",
         "description": "Lasts very long long",
         "price": 500
+    },
+    {
+        "id": "P54Y9443",
+        "item": "Keyboard",
+        "description": "Lenovo",
+        "price": 500
     }
 ]
