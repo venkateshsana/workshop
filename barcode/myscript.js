@@ -75,7 +75,7 @@ function detailsOfItem(index) {
     details += "<br>"
     details += list[index].department
     details += "<br>"
-    details += "Rs. " + list[index].average
+    details += list[index].average
     
     return details
 }
